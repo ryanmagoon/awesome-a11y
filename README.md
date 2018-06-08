@@ -50,7 +50,11 @@ Awesome list of accessibility related things!
   
   - [Jen Simmons](https://twitter.com/jensimmons)
   
+  - [Scott Vinkle](https://twitter.com/svinkle)
+  
   - [Jenny Lay-Flurrie](https://twitter.com/jennylayfluffy)
+  
+  - [WebAIM](https://twitter.com/webaim)
   
   - [Microsoft Accessibility](https://twitter.com/MSFTEnable)
   
