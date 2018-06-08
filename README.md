@@ -59,3 +59,5 @@ Awesome list of accessibility related things!
   - [Microsoft Accessibility](https://twitter.com/MSFTEnable)
   
   - [Google Accessibility](https://twitter.com/googleaccess)
+  
+  - [The Paciello Group](https://twitter.com/paciellogroup)
