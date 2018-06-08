@@ -28,6 +28,26 @@ Awesome list of accessibility related things!
   Built-in to chromebooks, also has an extension available
   
 ## Useful Info
+- [The A11y Project](https://a11yproject.com/)
+  A fantastic go-to resource for educating yourself on web accessibility
+  
+- [Web Accessibility Course by Google](https://www.udacity.com/course/web-accessibility--ud891)
+  A free cccessibility course on Udacity that will teach you a lot about a11y, compliance and how to use tools.
 
 - [React Accessibility Documentation](https://reactjs.org/docs/accessibility.html)
   A decent amount of info regarding react’s accessibility capabilities.
+  
+## People to follow on Twitter
+  - [Marcy Sutton](https://twitter.com/marcysutton)
+  
+  - [Rob Dodson](https://twitter.com/rob_dodson)
+
+  - [Sarah Drasner](https://twitter.com/sarah_edo)
+  
+  - [Jen Simmons](https://twitter.com/jensimmons)
+  
+  - [Jenny Lay-Flurrie](https://twitter.com/jennylayfluffy)
+  
+  - [Microsoft Accessibility](https://twitter.com/MSFTEnable)
+  
+  - [Google Accessibility](https://twitter.com/googleaccess)
