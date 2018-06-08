@@ -44,6 +44,10 @@ Awesome list of accessibility related things!
 
   - [Sarah Drasner](https://twitter.com/sarah_edo)
   
+  - [Nicolas Steenhout](https://twitter.com/vavroom)
+  
+  - [Carie Fisher](https://twitter.com/cariefisher)
+  
   - [Jen Simmons](https://twitter.com/jensimmons)
   
   - [Jenny Lay-Flurrie](https://twitter.com/jennylayfluffy)
