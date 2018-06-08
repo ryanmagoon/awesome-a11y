@@ -2,6 +2,7 @@
 Awesome list of accessibility related things!
 
 ## Testing Tools & Libraries
+
 - [a11y](https://addyosmani.com/a11y/)
   Command-line accessibility audit tool using the chrome accessibility developer tools
 
@@ -28,6 +29,9 @@ Awesome list of accessibility related things!
   Built-in to chromebooks, also has an extension available
   
 ## Useful Info
+- [Accessibility & Me](https://a11y.me/)
+  A primer and resource list for learning about accessibility
+
 - [The A11y Project](https://a11yproject.com/)
   A fantastic go-to resource for educating yourself on web accessibility
   
