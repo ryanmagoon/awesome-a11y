@@ -1,7 +1,14 @@
 # awesome-a11y
 Awesome list of accessibility related things!
 
+## Prior Art
+- [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
+  the OG list, still being updated regularly
+
 ## Testing Tools & Libraries
+
+- [tota11y](http://khan.github.io/tota11y/)
+  Accessibility visualization toolkit from Khan Academy
 
 - [a11y](https://addyosmani.com/a11y/)
   Command-line accessibility audit tool using the chrome accessibility developer tools
@@ -11,6 +18,9 @@ Awesome list of accessibility related things!
   
 - [axe-core](https://github.com/dequelabs/axe-core)
   E2e testing module for Selenium (if they use it in their CI pipeline)
+  
+- [react-a11y](https://github.com/reactjs/react-a11y)
+  react static analysis tool for a11y
   
 - [aXe](https://www.deque.com/products/axe/)
   Browser inspector plugin for aXe
